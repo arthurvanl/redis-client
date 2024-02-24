@@ -1,0 +1,15 @@
+logLevel = "error" # "debug" | "warn" | "error"
+
+[debug]
+
+editor = "code"
+
+# List of editors:
+# - "subl", "sublime"
+# - "vscode", "code"
+# - "textmate", "mate"
+# - "idea"
+# - "webstorm"
+# - "nvim", "neovim"
+# - "vim","vi"
+# - "emacs"
